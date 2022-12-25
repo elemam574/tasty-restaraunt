@@ -1,0 +1,17 @@
+@keyframes juicy {
+    0% {
+        color: #d6d081;
+    }
+
+    50% {
+        color: #7cd36a;
+    }
+
+    75% {
+        color: #6be0cd;
+    }
+
+    100% {
+        color: #d6d081;
+    }
+}
